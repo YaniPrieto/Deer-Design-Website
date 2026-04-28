@@ -16,7 +16,7 @@ const cormorantGaramond = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Henderson Law Firm | Family Law Counsel",
+  title: "Deerdesigner Law | Family Law Counsel",
   description:
     "Family law counsel for divorce, custody, support, property division, and estate planning matters in North Carolina.",
 };

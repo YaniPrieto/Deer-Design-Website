@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="relative h-16 w-56">
             <Image
               src="/logo-transparent.png"
-              alt="Henderson Law Firm"
+              alt="Deerdesigner Law"
               fill
               sizes="224px"
               className="object-contain object-left"
@@ -54,7 +54,7 @@ export default function Footer() {
       </div>
       <div className="mx-auto mt-14 flex max-w-6xl flex-col gap-4 px-6 text-[10px] uppercase tracking-[0.18em] text-slate-500 sm:flex-row sm:justify-between">
         <p>Privacy Policy</p>
-        <p>&copy; 2026 Henderson Law Firm</p>
+        <p>&copy; 2026 Deerdesigner Law</p>
         <p>Attorney Advertising</p>
       </div>
     </footer>

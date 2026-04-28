@@ -1,4 +1,4 @@
-# Henderson Law Firm Landing Page
+# Deerdesigner Law Landing Page
 
 Next.js App Router landing page for a family law practice.
 

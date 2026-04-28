@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const partners = [
   {
-    name: "Hannah Henderson",
+    name: "Hannah Deer Designer",
     image: "/partner1.png",
   },
   {

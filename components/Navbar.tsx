@@ -35,7 +35,7 @@ export default function Navbar() {
         <a href="#" className="relative block h-9 w-44">
           <Image
             src="/logo-transparent.png"
-            alt="Henderson Law Firm"
+            alt="Deerdesigner Law"
             fill
             priority
             sizes="176px"

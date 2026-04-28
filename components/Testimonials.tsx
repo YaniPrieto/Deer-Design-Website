@@ -1,7 +1,7 @@
 const testimonials = [
   {
     quote:
-      "Henderson Law helped me through one of the hardest chapters of my life with clarity, compassion, and a plan.",
+      "Deer Designer helped me through one of the hardest chapters of my life with clarity, compassion, and a plan.",
     name: "Mary",
     role: "Client",
   },
